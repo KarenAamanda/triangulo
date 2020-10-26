@@ -1,0 +1,2 @@
+# triangulo
+programa em java 
